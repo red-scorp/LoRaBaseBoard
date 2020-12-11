@@ -20959,7 +20959,8 @@ Radiall&lt;p&gt;</description>
 <sheets>
 <sheet>
 <plain>
-<text x="254" y="7.62" size="1.778" layer="91">V1.0</text>
+<text x="254" y="7.62" size="2.54" layer="94">V1.0</text>
+<text x="203.2" y="7.62" size="2.54" layer="94">LR-BASE-0010</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>

@@ -165,8 +165,8 @@
 <wire x1="30.46" y1="0" x2="30.46" y2="26.34" width="0" layer="20"/>
 <wire x1="30.46" y1="26.34" x2="0" y2="26.34" width="0" layer="20"/>
 <wire x1="0" y1="26.34" x2="0" y2="0" width="0" layer="20"/>
-<text x="19.05" y="1.27" size="1.778" layer="21">v1.0</text>
-<text x="20.32" y="10.16" size="1.778" layer="22" rot="MR0">LoRaB v1.0</text>
+<text x="19.05" y="1.27" size="1.778" layer="21" font="vector">v1.0</text>
+<text x="20.32" y="10.16" size="1.778" layer="22" font="vector" rot="MR0">LoRaB v1.0</text>
 </plain>
 <libraries>
 <library name="SparkFun-Connectors">
