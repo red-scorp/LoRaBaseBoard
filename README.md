@@ -6,15 +6,15 @@ One day I wanted to play with LoRa in sender-receiver setup.
 What I have fount there are a lot of SMD-mountable modules available but no modules suitable for common prototyping breadboards.
 Here I've tried to create a user friendly way to use commonly available LoRa modules.
 
-## LorRaBaseBoard
+## LoRaBaseBoard
 
 Simple adapted board intended to be used with variety of RFM LoRa radio modules and being used for HW prototyping.
 
 Preview:
 
-![LorRaBaseBoard preview](LorRaBaseBoard.png)
+![LoRaBaseBoard preview](LoRaBaseBoard.png)
 
-[Schematics in PDF format](LorRaBaseBoard.pdf)
+[Schematics in PDF format](LoRaBaseBoard.pdf)
 
 Features:
 
@@ -23,15 +23,15 @@ Features:
 
 CAM files are available.
 
-## LorRaAdapter
+## LoRaAdapter
 
 This adapter board is meant to be a drop-in replacement for NRF24L01 modules.
 
 Preview:
 
-![LorRaAdapter preview](LorRaAdapter.png)
+![LoRaAdapter preview](LoRaAdapter.png)
 
-[Schematics in PDF format](LorRaAdapter.pdf)
+[Schematics in PDF format](LoRaAdapter.pdf)
 
 Features:
 
