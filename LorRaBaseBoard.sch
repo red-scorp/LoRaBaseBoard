@@ -20952,8 +20952,8 @@ Radiall&lt;p&gt;</description>
 <part name="J1" library="SparkFun-Connectors" deviceset="CONN_08" device="NO_SILK_FEMALE_PTH"/>
 <part name="J2" library="SparkFun-Connectors" deviceset="CONN_08" device="NO_SILK_FEMALE_PTH"/>
 <part name="J3" library="SparkFun-Connectors" deviceset="CONN_08" device="NO_SILK_FEMALE_PTH"/>
-<part name="J4" library="SparkFun-Connectors" deviceset="U.FL2PIN" device="" value="U.FL"/>
-<part name="X1" library="con-coax" library_urn="urn:adsk.eagle:library:133" deviceset="BU-SMA-H" device="" package3d_urn="urn:adsk.eagle:package:6206/1"/>
+<part name="A2" library="SparkFun-Connectors" deviceset="U.FL2PIN" device="" value="U.FL"/>
+<part name="A1" library="con-coax" library_urn="urn:adsk.eagle:library:133" deviceset="BU-SMA-H" device="" package3d_urn="urn:adsk.eagle:package:6206/1"/>
 <part name="LOGO1" library="_my_logos" deviceset="MFDECLOGO" device="_SQ_8MM"/>
 </parts>
 <sheets>
@@ -20985,11 +20985,11 @@ Radiall&lt;p&gt;</description>
 <attribute name="VALUE" x="215.9" y="86.614" size="1.778" layer="96" font="vector"/>
 <attribute name="NAME" x="215.9" y="112.268" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="J4" gate="G$1" x="144.78" y="66.04" smashed="yes">
+<instance part="A2" gate="G$1" x="144.78" y="66.04" smashed="yes">
 <attribute name="NAME" x="147.32" y="60.96" size="1.778" layer="95"/>
 <attribute name="VALUE" x="147.32" y="58.42" size="1.778" layer="96"/>
 </instance>
-<instance part="X1" gate="G$1" x="109.22" y="66.04" smashed="yes">
+<instance part="A1" gate="G$1" x="109.22" y="66.04" smashed="yes">
 <attribute name="VALUE" x="106.68" y="60.96" size="1.778" layer="96"/>
 <attribute name="NAME" x="106.68" y="69.342" size="1.778" layer="95"/>
 </instance>
@@ -21082,12 +21082,12 @@ Radiall&lt;p&gt;</description>
 <label x="193.04" y="93.98" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="J4" gate="G$1" pin="GND"/>
+<pinref part="A2" gate="G$1" pin="GND"/>
 <wire x1="144.78" y1="60.96" x2="144.78" y2="53.34" width="0.1524" layer="91"/>
 <label x="144.78" y="53.34" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="X1" gate="G$1" pin="2"/>
+<pinref part="A1" gate="G$1" pin="2"/>
 <wire x1="111.76" y1="63.5" x2="119.38" y2="63.5" width="0.1524" layer="91"/>
 <label x="111.76" y="63.5" size="1.778" layer="95"/>
 </segment>
@@ -21104,12 +21104,12 @@ Radiall&lt;p&gt;</description>
 <label x="193.04" y="91.44" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="J4" gate="G$1" pin="SIGNAL"/>
+<pinref part="A2" gate="G$1" pin="SIGNAL"/>
 <wire x1="149.86" y1="66.04" x2="157.48" y2="66.04" width="0.1524" layer="91"/>
 <label x="152.4" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="X1" gate="G$1" pin="1"/>
+<pinref part="A1" gate="G$1" pin="1"/>
 <wire x1="111.76" y1="66.04" x2="119.38" y2="66.04" width="0.1524" layer="91"/>
 <label x="114.3" y="66.04" size="1.778" layer="95"/>
 </segment>
