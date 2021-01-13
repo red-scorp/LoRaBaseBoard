@@ -1,6 +1,6 @@
 # LoRaBaseBoard
 
-My LoRa Base Board for RFM95/96/97/98.
+LoRa Base Board for popular Hoperf's RFM95/96/97/98 modules.
 
 One day I wanted to play with LoRa in sender-receiver setup.
 What I have fount there are a lot of SMD-mountable modules available but no modules suitable for common prototyping breadboards.
