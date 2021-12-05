@@ -12,9 +12,9 @@ Simple adapted board intended to be used with variety of RFM LoRa radio modules 
 
 Preview:
 
-![LoRaBaseBoard preview](LoRaBaseBoard.png)
+![LoRaBaseBoard preview](img/LoRaBaseBoard.png)
 
-[Schematics in PDF format](LoRaBaseBoard.pdf)
+[Schematics in PDF format](doc/LoRaBaseBoard.pdf)
 
 Features:
 
@@ -29,9 +29,9 @@ This adapter board is meant to be a drop-in replacement for NRF24L01 modules.
 
 Preview:
 
-![LoRaAdapter preview](LoRaAdapter.png)
+![LoRaAdapter preview](img/LoRaAdapter.png)
 
-[Schematics in PDF format](LoRaAdapter.pdf)
+[Schematics in PDF format](doc/LoRaAdapter.pdf)
 
 Features:
 
